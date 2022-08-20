@@ -1,2 +1,3 @@
-# rpa-study
-Repositório de estudos RPA.
+# Estudos Sobre RPA 🤖
+
+Um repositório dedicado aos projetos de estruturacão de RPA.
