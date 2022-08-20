@@ -1,3 +1,3 @@
-# Estudos Sobre RPA 🤖
+# Estudos sobre RPA 🤖
 
-Um repositório dedicado aos projetos de estruturacão de RPA.
+Um repositório dedicado aos projetos de estruturacão basilares.
