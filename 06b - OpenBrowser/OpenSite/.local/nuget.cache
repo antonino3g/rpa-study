@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OmLjVaiB80nrzvsAq4sU1a2lztrnSXLNeXu7IseI+/aW20/NtAPWG3cnIaPoHosKwrotkVWWuaY0gKk7E1c17w==",
+  "dgSpecHash": "qEdRHbKBGlM/ptkdujRIihmr1i+P0CxKq5w++xAFHQOhoG2DS0l0xwTtQx0b5F9112nl8xrmPPCTaWm1xqTI9Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Antonino\\git\\rpa-study\\06 - OpenSite\\.local\\",
+  "projectFilePath": "C:\\Users\\Antonino\\git\\rpa-study\\06b - OpenBrowser\\OpenSite\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\Antonino\\.nuget\\packages\\closedxml\\0.87.1\\closedxml.0.87.1.nupkg.sha512",
     "C:\\Users\\Antonino\\.nuget\\packages\\csvhelper\\16.0.0\\csvhelper.16.0.0.nupkg.sha512",

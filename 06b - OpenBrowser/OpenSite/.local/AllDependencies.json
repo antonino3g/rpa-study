@@ -4501,7 +4501,6 @@
       "path": "google.apis/1.55.0",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "LICENSE",
         "NuGetIcon.png",
         "google.apis.1.55.0.nupkg.sha512",
@@ -4581,7 +4580,6 @@
       "path": "google.apis.core/1.55.0",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "LICENSE",
         "NuGetIcon.png",
         "google.apis.core.1.55.0.nupkg.sha512",
@@ -8419,9 +8417,9 @@
     "restore": {
       "projectUniqueName": "OpenSite",
       "projectName": "OpenSite",
-      "projectPath": "C:\\Users\\Antonino\\git\\rpa-study\\06 - OpenSite\\.local",
+      "projectPath": "C:\\Users\\Antonino\\git\\rpa-study\\06b - OpenBrowser\\OpenSite\\.local",
       "packagesPath": "C:\\Users\\Antonino\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Antonino\\git\\rpa-study\\06 - OpenSite\\.local"
+      "outputPath": "C:\\Users\\Antonino\\git\\rpa-study\\06b - OpenBrowser\\OpenSite\\.local"
     },
     "frameworks": {
       "net461": {
