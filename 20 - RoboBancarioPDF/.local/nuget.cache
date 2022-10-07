@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "w96KugAWZN+P0cF4vtHiO0DXtRh9Zew6j3cxEBf3WUhHl3Qq8VWaHWY/5z6HlEfimFzw6dCI3Rk5C/2HvVnaBQ==",
+  "dgSpecHash": "o5Ubo1EnfK3kN0X5xrYKcZm0qa8ZHIe/dJpKG9QLO86LC5MgRFsxWb6q86vSPYjyWsHuqaXN2zF9mgrvyPZO5A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrador\\git\\rpa-study\\19 - RoboBancario\\.local\\",
+  "projectFilePath": "C:\\Users\\Administrador\\git\\rpa-study\\RoboBancarioPDF\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\Administrador\\.nuget\\packages\\closedxml\\0.87.1\\closedxml.0.87.1.nupkg.sha512",
     "C:\\Users\\Administrador\\.nuget\\packages\\csvhelper\\16.0.0\\csvhelper.16.0.0.nupkg.sha512",

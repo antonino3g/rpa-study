@@ -8417,11 +8417,11 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "RoboBancario",
-      "projectName": "RoboBancario",
-      "projectPath": "C:\\Users\\Administrador\\git\\rpa-study\\19 - RoboBancario\\.local",
+      "projectUniqueName": "RoboBancarioPDF",
+      "projectName": "RoboBancarioPDF",
+      "projectPath": "C:\\Users\\Administrador\\git\\rpa-study\\RoboBancarioPDF\\.local",
       "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrador\\git\\rpa-study\\19 - RoboBancario\\.local"
+      "outputPath": "C:\\Users\\Administrador\\git\\rpa-study\\RoboBancarioPDF\\.local"
     },
     "frameworks": {
       "net461": {
